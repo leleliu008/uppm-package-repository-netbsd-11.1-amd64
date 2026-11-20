@@ -1,0 +1,5 @@
+summary: Utility for directing compilation
+webpage: https://www.gnu.org/software/make
+version: 4.4.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-11.1-amd64/releases/download/2026.11.20/gmake-4.4.1-netbsd-11.1-amd64.release.tar.xz 
+bin-sha: 3ea99877c6fd7d8b46e74a94a7631cae14be3ba5262fefe733c092473addded0

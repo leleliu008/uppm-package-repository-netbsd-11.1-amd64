@@ -1,0 +1,5 @@
+summary: GNU version of the tar archiving utility
+webpage: https://www.gnu.org/software/tar
+version: 1.35 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-11.1-amd64/releases/download/2026.11.20/gtar-1.35-netbsd-11.1-amd64.release.tar.xz 
+bin-sha: bf8853e619d2bff590603cfaff8b1918dcca212d0117f24052682d283040e932

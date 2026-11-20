@@ -1,0 +1,5 @@
+summary: GNU internationalization (i18n) and localization (l10n) library
+webpage: https://www.gnu.org/software/gettext
+version: 1.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-11.1-amd64/releases/download/2026.11.20/gettext-tools-1.0-netbsd-11.1-amd64.release.tar.xz 
+bin-sha: e237cb3fd347131c1cc0dcc937b2bedc3eeef19590af6ce82c548fe4b8a9ca2a

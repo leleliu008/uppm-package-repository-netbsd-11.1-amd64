@@ -1,0 +1,5 @@
+summary: LZMA-based compression program similar to gzip or bzip2
+webpage: https://www.nongnu.org/lzip
+version: 1.26 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-11.1-amd64/releases/download/2026.11.20/lzip-1.26-netbsd-11.1-amd64.release.tar.xz 
+bin-sha: bbedddbb16eeacbbc19b15dbcbdec5ef0c7b7c768f665cee40e598a467f0ec5d

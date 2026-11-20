@@ -1,0 +1,5 @@
+summary: base64 encoder and decoder
+webpage: https://github.com/leleliu008/C-examples
+version: 2026.11.20 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-11.1-amd64/releases/download/2026.11.20/base64-2026.11.20-netbsd-11.1-amd64.release.tar.xz 
+bin-sha: 48f18f3690e24afdc6a7bd3702ce0a0b77b094fbf58cdfd651f1812a62be8b6b

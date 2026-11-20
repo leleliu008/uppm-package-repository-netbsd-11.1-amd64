@@ -1,0 +1,5 @@
+summary: A command-line tool to translates a terminfo file from source format into compiled format
+webpage: https://www.gnu.org/software/ncurses
+version: 6.5 
+bin-url: https://github.com/leleliu008/uppm-package-repository-netbsd-11.1-amd64/releases/download/2026.11.20/tic-6.5-netbsd-11.1-amd64.release.tar.xz 
+bin-sha: 5a3502eb65b4568d89b893bd4634bede5c11f0d633a4be47bb7480a835677a41
